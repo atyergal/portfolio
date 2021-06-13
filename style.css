@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightcoral;
+    padding: 30px;
+}
+
+.link-header {
+    color: white;
+    text-decoration: none;
+    background-color: royalblue;
+    padding: 10px;
+}
+
+.link-header:hover {
+    background-color: white;
+    color: royalblue;
+    border: 3px solid royalblue;
+}
+
+nav {
+    padding: 30px;
+}
+
+.link-nav {
+    color: olive;
+    text-decoration: none;
+    border-bottom: 1px solid olive;
+    margin-right: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: darkred;
+    font-size: 50px;
+}
